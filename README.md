@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/string_color.svg)](http://badge.fury.io/rb/string_color)
+
 # StringColor
 
 Output color text in console
