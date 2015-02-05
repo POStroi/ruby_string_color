@@ -26,21 +26,21 @@ puts "This is red text".red
 
 ## Available color
 
-White - white
-Red - red
-Light red - light_red
-Green - green
-Light green - light_green
-Yellow - yellow
-Blue - blue
-Light blue - light_blue
-Purple - purple
-Light purple - light_purple
-Brown - brown
-Cyan - cyan
-Light cyan - light_cyan
-Light gray - light_gray
-Dark gray - dark_gray
+* White - white
+* Red - red
+* Light red - light_red
+* Green - green
+* Light green - light_green
+* Yellow - yellow
+* Blue - blue
+* Light blue - light_blue
+* Purple - purple
+* Light purple - light_purple
+* Brown - brown
+* Cyan - cyan
+* Light cyan - light_cyan
+* Light gray - light_gray
+* Dark gray - dark_gray
 
 ## Contributing
 
